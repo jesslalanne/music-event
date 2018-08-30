@@ -38,13 +38,13 @@ class Header extends Component {
         position="fixed"
         style={{
           backgroundColor: this.state.headerShow ? "#2F2F2F" : "transparent",
-          boxShadow: "non",
+          boxShadow: "none",
           padding: "10 px 0px"
         }}
       >
         <ToolBar>
           <div className="header_logo">
-            <div className="font_righteous header_logo_venu">The Venue</div>
+            <div className="font_righteous header_logo_venue">The Venue</div>
             <div className="header_logo_title">Musical Events</div>
           </div>
 
