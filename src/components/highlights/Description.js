@@ -10,6 +10,8 @@ class Description extends Component {
           <div className="highlight_description">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, neque.
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, molestias.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, neque.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, molestias.
           </div>
         </div>
       </Fade>
