@@ -8,10 +8,9 @@ class Description extends Component {
         <div className="center_wrapper">
           <h2>Highlights</h2>
           <div className="highlight_description">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, neque.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, molestias.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, neque.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, molestias.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, neque. Lorem ipsum dolor sit amet
+            consectetur adipisicing elit. Expedita, molestias. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Adipisci, neque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, molestias.
           </div>
         </div>
       </Fade>
