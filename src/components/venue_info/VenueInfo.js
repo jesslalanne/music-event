@@ -25,7 +25,7 @@ class VenueInfo extends Component {
                         >
                         </div>
                         <div className="vn_title">Event date</div>
-                        <div className="vn_desc">13 December 2018</div>
+                        <div className="vn_desc">December 13th 2018</div>
                     </div>
                 </div>
                 </div>
@@ -44,7 +44,7 @@ class VenueInfo extends Component {
                         >
                         </div>
                         <div className="vn_title">Event location</div>
-                        <div className="vn_desc">Bordeaux</div>
+                        <div className="vn_desc">Biarritz Bidard - Pays Basque</div>
                     </div>
                 </div>
                 </div>
