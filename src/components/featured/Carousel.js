@@ -7,7 +7,7 @@ import slide_three from "../../resources/images/slide_three.jpg";
 const Carousel = () => {
   const settings = {
     dots: false,
-    infinte: true,
+    infinite: true,
     autoplay: true,
     speed: 500
   };
